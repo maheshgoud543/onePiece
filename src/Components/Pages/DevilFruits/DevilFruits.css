@@ -1,0 +1,15 @@
+
+.Devil_title{
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+    color: #0D85C8;
+}
+.DeviFruits_images{
+    width: 600px;
+    height: 400px;
+}
+.DeviFruits_story{
+    padding: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,99 @@
+.Main_theme {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    
+   
+}
+
+.Story {
+    padding: 1rem;
+    margin-top: 5rem;
+}
+
+.Title {
+    color: #0D85C8 ;
+    font-size: 4rem;
+    font-style: Arial;
+    cursor: pointer;
+}
+
+p {
+    font-style: Arial;
+}
+
+.button {
+    margin-top: 2rem;
+}
+
+button {
+    font-size: inherit;
+    font-weight: bolder;
+    background-color: #D60000;
+    border: none;
+    border-radius: 10px;
+    padding: 1rem;
+    cursor: pointer;
+    color: white;  
+    transition: transform 0.2s
+}
+button:hover{
+    transform: scale(1.1);
+}
+
+.Caruosal {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 600px;
+    height: 400px; */
+}
+
+.slide {
+    border-radius: 0.5rem;
+    box-shadow: 0px 0px 7px #666;
+    width: 600px;
+    height: 400px;
+}
+.slide-hidden{
+    display: none;
+}
+
+li {
+    list-style: none;
+}
+
+.arrow {
+    position: absolute;
+    filter: drop-shadow(0px 0px 5px #555);
+    width: 2rem;
+    height: 2rem;
+    color: white;
+    background-color: red;
+    border-radius: 1rem;
+}
+.arrow:hover {
+    cursor: pointer;
+  }
+  
+  .arrow-left {
+    left: 1rem;
+  }
+  
+  .arrow-right {
+    right: 1rem;
+  }
+.Quote{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D60000;
+    padding: 10px;
+    font-size: 2rem;
+   
+    font-weight: bolder;
+}
+.Subtext{
+    font-size: 1rem;
+}

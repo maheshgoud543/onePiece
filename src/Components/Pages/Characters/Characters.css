@@ -1,0 +1,62 @@
+.Characters{
+    background-image: url("https://i.pinimg.com/564x/81/fe/76/81fe7693b616fd8365735460963597d4.jpg");
+}
+.Pirates_images{
+    width: 300px;
+    height: 400px;
+}
+/* Characters.css */
+.Pirates {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Pirates_title {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 3rem;
+    font-weight: bolder;
+    
+}
+
+.Pirates_data {
+    width: 90%; 
+    margin: 0 auto;
+}
+
+.Pirates_slide {
+    display: flex;
+    justify-content: center;
+}
+.Marine_images{
+    width: 300px;
+    height: 400px;
+}
+.Marines_title{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 3rem;
+    font-weight: bolder;
+}
+.Marines_data{
+    width: 90%; 
+    margin: 0 auto;
+}
+.Warlords_images{
+    width: 300px;
+    height: 400px;
+}
+.Warlords_title{
+    text-align: center;
+    margin-bottom: 20px; 
+    color: black;
+    padding: 20px;
+    font-size: 3rem;
+    font-weight: bolder;
+}
+.Warlord_data{
+    width: 90%; 
+    margin: 0 auto;
+}

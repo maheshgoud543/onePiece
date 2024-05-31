@@ -1,0 +1,10 @@
+.Maps_images{
+    width: 400px;
+    height: 300px;
+}
+.Maps_title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #0D85C8;
+}

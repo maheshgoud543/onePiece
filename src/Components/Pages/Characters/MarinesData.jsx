@@ -1,0 +1,47 @@
+export const MarinesData = [
+    {
+        id:1,
+        src:"https://i.pinimg.com/474x/68/48/08/684808f734b22416bbd6c2ea2925e197.jpg",
+        alt:"Monkey D Garp"
+    },
+    {
+        id:2,
+        src:"https://i.pinimg.com/474x/95/9c/c6/959cc629dc3a85eb8ad52499bbb5aadb.jpg",
+        alt:"Kizaru"
+    },
+    {
+        id:3,
+        src:"https://i.pinimg.com/474x/d3/c5/16/d3c51621c57ec01ea9e833a941843603.jpg",
+        alt:"FujiTora"
+    },
+    {
+        id:4,
+        src:"https://i.pinimg.com/564x/da/f2/e6/daf2e60e907bdad82de87f6bdc42e9ea.jpg",
+        alt:"Akoji"
+    },
+    {
+        id:5,
+        src:"https://i.pinimg.com/474x/8f/5b/b5/8f5bb5ec4a5ee6f05e4b9afc70ab1904.jpg",
+        alt:"Rygoku"
+    },
+    {
+        id:6,
+        src:"https://i.pinimg.com/474x/76/ce/1c/76ce1c064c2cf330b886f3982f39ab8c.jpg",
+        alt:"Akainu"
+    },
+    {
+        id:7,
+        src:"https://i.pinimg.com/474x/49/17/c6/4917c6ec38e493c410e903c8260f7214.jpg",
+        alt:"Tsuru"
+    },
+    {
+        id:8,
+        src:"https://i.pinimg.com/474x/cb/2c/e0/cb2ce00df2cf75ecd9e98f62ef7287f9.jpg",
+        alt:"Sengoku"
+    },
+    {
+        id:9,
+        src:"https://i.pinimg.com/474x/81/c5/63/81c563ab860ef74518e2f381ece86e3f.jpg",
+        alt:"Tasohji"
+    },
+]

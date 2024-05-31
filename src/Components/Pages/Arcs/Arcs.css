@@ -1,0 +1,89 @@
+ /* .Arcs{
+    background-image: url("https://wallpaperaccess.com/full/2153899.jpg");
+ } */
+ .Arc1 {
+     padding-top: 1rem;
+     display: flex;
+ }
+
+ .Arc1_image {
+     width: 1200px;
+     height: 400px;
+     transition: 0.2s;
+ }
+
+ .Arc1_image:hover {
+     transform: scale(1.1);
+ }
+
+ .Arc2 {
+     display: flex;
+ }
+
+ .Arc2_image {
+     width: 600px;
+     height: 400px;
+     transition: 0.2s;
+ }
+
+ .Arc2_image:hover {
+     transform: scale(1.1);
+ }
+
+ .Arc3 {
+     display: flex;
+ }
+
+ .Arc3_image {
+     width: 1200px;
+     height: 400px;
+     transition: 0.2s;
+ }
+
+ .Arc3_image:hover {
+     transform: scale(1.1);
+ }
+
+ .Arc4 {
+     display: flex;
+ }
+
+ .Arc4_image {
+     width: 1000px;
+     height: 400px;
+     transition: 0.2s;
+ }
+
+ .Arc4_image:hover {
+     transform: scale(1.1);
+ }
+
+ .Arc5 {
+     display: flex;
+ }
+
+ .Arc5_image {
+     width: 1000px;
+     height: 400px;
+     transition: 0.2s;
+ }
+
+ .Arc5_image:hover {
+     transform: scale(1.1);
+ }
+
+ p {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     padding: 1rem;
+     color: black;
+     font-weight: bolder;
+ }
+ .Arcs_title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #0D85C8 ;
+    font-size: 2rem;
+ }
